@@ -1,3 +1,11 @@
+Note
+===
+
+This is a merge of [vjt](http://github.com/vjt) changes to the main code base fixing [more](https://github.com/cloudhead/more) initialization issues with Rails 3.0.7 and above (I just couldn't wait for an official merge). The following rake tasks will be available for you once again:
+
+    $ rake more:clean                     # Remove generated CSS files
+    $ rake more:generate                  # Generate CSS files from LESS files
+
 More
 ====
 
